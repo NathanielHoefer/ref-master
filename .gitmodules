@@ -1,3 +1,6 @@
 [submodule "ref-development"]
 	path = ref-development
 	url = https://github.com/NathanielHoefer/ref-development.git
+[submodule "ref-version-control"]
+	path = ref-version-control
+	url = https://github.com/NathanielHoefer/ref-version-control.git
