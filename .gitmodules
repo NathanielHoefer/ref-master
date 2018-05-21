@@ -4,3 +4,6 @@
 [submodule "ref-version-control"]
 	path = ref-version-control
 	url = https://github.com/NathanielHoefer/ref-version-control.git
+[submodule "ref-sphinx"]
+	path = ref-sphinx
+	url = git@github.com:NathanielHoefer/ref-sphinx.git
