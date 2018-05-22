@@ -7,3 +7,6 @@
 [submodule "ref-sphinx"]
 	path = ref-sphinx
 	url = git@github.com:NathanielHoefer/ref-sphinx.git
+[submodule "doc/ref-sphinx"]
+	path = doc/ref-sphinx
+	url = git@github.com:NathanielHoefer/ref-sphinx.git
