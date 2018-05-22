@@ -1,3 +1,9 @@
 [submodule "doc/ref-sphinx"]
 	path = doc/ref-sphinx
 	url = https://github.com/NathanielHoefer/ref-sphinx.git
+[submodule "docs/sphinx"]
+	path = docs/sphinx
+	url = https://github.com/NathanielHoefer/ref-sphinx.git
+[submodule "docs/linux"]
+	path = docs/linux
+	url = https://github.com/NathanielHoefer/ref-linux.git

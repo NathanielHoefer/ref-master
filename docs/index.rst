@@ -11,7 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   ref-sphinx/doc/index
+   sphinx/docs/index
+   linux/docs/index
 
 
 
