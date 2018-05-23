@@ -4,3 +4,6 @@
 [submodule "docs/linux"]
 	path = docs/linux
 	url = https://github.com/NathanielHoefer/ref-linux.git
+[submodule "docs/version-control"]
+	path = docs/version-control
+	url = https://github.com/NathanielHoefer/ref-version-control.git

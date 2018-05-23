@@ -52,7 +52,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'ref-master'
+project = u'Nathaniel Hoefer Reference'
 copyright = u'2018, Nathaniel Hoefer'
 author = u'Nathaniel Hoefer'
 
