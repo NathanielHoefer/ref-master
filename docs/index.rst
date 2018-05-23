@@ -23,15 +23,14 @@ Documentation Libraries
    version-control/docs/index
 
 Indices and tables
-******************
+------------------
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
 
-Disclaimer
-**********
+.. admonition:: Disclaimer
 
-I must emphasize that all information documented is for *personal* use,
-therefore it is far from comprehensive and may contain a number of errors.
-With that said, feel free to use this as a reference if you can find use for anything documented.
+   I must emphasize that all information documented is for *personal* use,
+   therefore it is far from comprehensive and may contain a number of errors.
+   With that said, feel free to use this as a reference if you can find use for anything documented.
