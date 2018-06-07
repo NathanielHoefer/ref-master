@@ -21,6 +21,7 @@ Documentation Libraries
    sphinx/docs/index
    linux/docs/index
    version-control/docs/index
+   machine-learning/docs/index
 
 Indices and tables
 ------------------

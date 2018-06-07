@@ -7,3 +7,6 @@
 [submodule "docs/version-control"]
 	path = docs/version-control
 	url = https://github.com/NathanielHoefer/ref-version-control.git
+[submodule "docs/machine-learning"]
+	path = docs/machine-learning
+	url = https://github.com/NathanielHoefer/ref-machine-learning.git
